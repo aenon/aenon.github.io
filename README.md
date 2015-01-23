@@ -2,7 +2,7 @@ aenon.github.io
 ===============
 [Xilin's Personal Page](http://aenon.github.io)
 ===
-Homepage of Xilin SUN, providing information about his biography, education, experience and projects.
+Homepage of Xilin SUN, providing information about his biography, education, experiences and projects.
 
 孙锡麟的个人主页。
 
