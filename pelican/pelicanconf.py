@@ -36,3 +36,6 @@ DEFAULT_PAGINATION = 20
 #RELATIVE_URLS = True
 
 OUTPUT_PATH = '..'
+
+THEME = "themes/aesimple"
+
