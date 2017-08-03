@@ -14,3 +14,7 @@ Also hosting some work related files.
 ===
 A fork of the 2048 game featuring a biological classification system.
 Chinese fonts are required to display it properly.
+
+[PDG RMO](http://aenon.github.io/pdg_rmo)
+===
+Google Site Gadget
