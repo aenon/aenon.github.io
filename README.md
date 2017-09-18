@@ -17,4 +17,4 @@ Chinese fonts are required to display it properly.
 
 [PDG RMO](http://aenon.github.io/pdg_rmo)
 ===
-Google Site Gadget
+Google Site Gadget (temporarily hosted here) 
