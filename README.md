@@ -3,6 +3,8 @@ aenon.github.io
 [Xilin's Personal Page](http://aenon.github.io)
 ===
 Homepage of Xilin Sun.
+[Archive of the 2012 version]http://aenon.me/legacy2012/
+[Archive of the 2015 version]http://aenon.me/legacy2015/
 
 Also hosting some work related files.
 
