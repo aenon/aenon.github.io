@@ -8,8 +8,6 @@ Homepage of Xilin Sun.
 
 [Archive of the 2015 version](http://aenon.me/legacy2015)
 
-Also hosting some work related files.
-
 
 
 孙锡麟的个人主页。
