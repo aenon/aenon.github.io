@@ -4,9 +4,9 @@ aenon.github.io
 ===
 Homepage of Xilin Sun.
 
-[Archive of the 2012 version](http://aenon.me/legacy2012)
+[Archive of the 2012 version](legacy2012)
 
-[Archive of the 2015 version](http://aenon.me/legacy2015)
+[Archive of the 2015 version](legacy2015)
 
 
 
